@@ -1,2 +1,10 @@
 [[VALIDATORS]]
 public_key = "nHB6Zc7mhr7swksEgpwTE7Hw7SvZ9cz22T2MECMSXjBeMTeHXQB7"
+attestation = "7D681817FF3784352EDB345A9DE8AE437B3C7A47F219DE25DDDDEBA38F8A52B63D8887411361C6782CB0B28BC1EF66C3E31B730E9CE5C199769A8C41DB802D0E"
+network = "main"
+owner_country = "CA"
+server_country = "CA"
+
+[METADATA]
+domain = "postfiat.permanentupperclass.com"
+network = "postfiat"
